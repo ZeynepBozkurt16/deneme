@@ -1,1 +1,2 @@
 hello world
+yeni dosya eklendi pull ile çekildi
